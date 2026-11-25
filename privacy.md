@@ -8,7 +8,7 @@ Privacy Policy
 
 Last Updated: [18/11/2026]
 
-This policy explains what personal information the [APP NAME] app collects, why, and what we do with it. It applies to the App operated by [LEGAL ENTITY NAME], registered at [REGISTERED ADDRESS].
+This policy explains what personal information the Astalakshmi Jewellers app collects, why, and what we do with it. It applies to the App operated by Astalakshmi Jewellers, registered at No 121, Lb road, Adyar, chennai - 600020.
 
 We have tried to describe only what we actually do, rather than everything we might conceivably do.
 
@@ -78,9 +78,9 @@ Technical and diagnostic records are kept for a shorter period and routinely cle
 
 You can view your profile and your full transaction history in the App at any time.
 
-You can ask us to correct your name or mobile number, ask what information we hold about you, or ask us to close your account. Write to [SUPPORT EMAIL] and we will respond within [NUMBER] days.
+You can ask us to correct your name or mobile number, ask what information we hold about you, or ask us to close your account. Write to info.astalakshmijewellers@gmail.com and we will respond within 7 business days.
 
-Two honest limits. Closing your account does not erase transaction records we must keep by law. And redeem your gold before asking us to close your account — your holding remains yours either way, but collecting it is far simpler while the account is open.
+Two honest limits. Closing your account does not erase transaction records we must keep by law. And redeem your gold before asking us to close your account.
 
 8. Children
 
@@ -92,8 +92,5 @@ We may update this policy. The current version is always in the App, with the da
 
 10. Contact
 
-[SUPPORT EMAIL]
-
-[SUPPORT PHONE]
-
-[STORE ADDRESS]
+- Email: info.astalakshmijewellers@gmail.com
+- Address: No 121, Lb road, Adyar, chennai - 600020

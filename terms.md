@@ -1,8 +1,8 @@
 Terms and Conditions
 
-Last Updated: [DD MONTH YYYY]
+Last Updated: [18/11/2026]
 
-These Terms govern your use of the [APP NAME] mobile application, operated by [LEGAL ENTITY NAME], registered at [REGISTERED ADDRESS]. By creating an account or buying gold through the App, you agree to these Terms. If you do not agree, do not use the App.
+These Terms govern your use of the [APP NAME] mobile application, operated by Astalakshmi Jewellers, registered at No 121, Lb road, Adyar, chennai - 600020. By creating an account or buying gold through the App, you agree to these Terms. If you do not agree, do not use the App.
 
 1. Eligibility
 
@@ -34,7 +34,7 @@ You are free to place a new order at the rate current at that time.
 
 If a payment is confirmed shortly after an order has expired, we will honour it at the original rate of that order rather than reject it. We do this because your money has already left your account.
 
-The minimum purchase is [MINIMUM AMOUNT].
+The minimum purchase is INR 100.
 
 4. Payment
 
@@ -54,7 +54,7 @@ Part of your balance may show as reserved while a redemption is in progress. Res
 
 6. Redemption — physical gold only, at our store
 
-You may redeem your holding for physical jewellery, collected in person at our store at [STORE ADDRESS].
+You may redeem your holding for physical jewellery, collected in person at our store at No 121, Lb road, Adyar, chennai - 600020.
 
 You request a redemption in the App and receive a code. You bring that code to the store, our staff verify it, and the jewellery is handed over to you. Redemption codes are valid for a short period and expire if unused — you can simply request another.
 
@@ -66,17 +66,15 @@ We may ask for identification to confirm you are the account holder before handi
 
 - You may redeem part of your balance. Whatever you redeem is deducted; the remainder stays in your wallet.
 
-- The minimum redeemable quantity is [MINIMUM REDEMPTION].
-
 - Jewellery is subject to availability of designs at the time of collection.
 
-- Converting gold into jewellery involves charges beyond the gold itself — making charges, wastage and applicable taxes. These are quoted at the time of redemption and are payable separately, in addition to the grams deducted from your wallet. [CONFIRM YOUR MAKING-CHARGE POLICY]
+- Converting gold into jewellery involves charges beyond the gold itself — making charges, wastage and applicable taxes. These are quoted at the time of redemption and are payable separately, in addition to the grams deducted from your wallet.
 
 7. Cancellations, failed payments and refunds
 
 Before payment: you may abandon an order at any time. Nothing is charged and nothing is credited.
 
-Failed or interrupted payment: if money leaves your account but the payment does not succeed, your bank reverses it automatically, usually within [NUMBER] working days.
+Failed or interrupted payment: if money leaves your account but the payment does not succeed, your bank reverses it automatically, depending on bank's reversing policy.
 
 We do not hold those funds at any point. If a reversal has not reached you within that period, contact your bank first, then us.
 
@@ -96,7 +94,7 @@ Tell us immediately if you think someone else has access to your account. You ar
 
 We aim to keep the App available but cannot guarantee uninterrupted service. Features may be unavailable during maintenance, gateway outages, or when our store is closed.
 
-Rates shown in the App are sourced from [RATE SOURCE] and refreshed periodically. A rate on screen may be a few moments old; the rate that applies to your order is the one fixed when the order is created.
+A rate on screen may be a few moments old; the rate that applies to your order is the one fixed when the order is created.
 
 To the maximum extent the law allows, we are not liable for indirect or consequential loss, loss of profit, or loss arising from gold price movement. Where liability cannot be excluded, it is limited to the value of the gold holding in your account at the time the claim arises.
 
@@ -126,12 +124,9 @@ Changes do not alter the rate or terms of an order already placed.
 
 14. Governing law and disputes
 
-These Terms are governed by the laws of India. The courts at [CITY] have exclusive jurisdiction.
+These Terms are governed by the laws of India.
 
 15. Contact
 
-[SUPPORT EMAIL]
-
-[SUPPORT PHONE]
-
-[STORE ADDRESS]
+- Email: info.astalakshmijewellers@gmail.com
+- Address: No 121, Lb road, Adyar, chennai - 600020
